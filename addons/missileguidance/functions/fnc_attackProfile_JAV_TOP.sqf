@@ -24,7 +24,7 @@
 
 #define CRUISE_ALT 160
 #define CLIMB_ANGLE 22
-#define ATTACK_ANGLE 12
+#define ATTACK_ANGLE 45
 
 params ["_seekerTargetPos", "_args", "_attackProfileStateParams"];
 _args params ["_firedEH"];

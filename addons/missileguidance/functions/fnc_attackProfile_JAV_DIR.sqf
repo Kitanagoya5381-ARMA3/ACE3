@@ -23,7 +23,7 @@
 #define STAGE_TERMINAL 4
 
 #define CLIMB_ANGLE 12
-#define ATTACK_ANGLE 2
+#define ATTACK_ANGLE 10
 
 params ["_seekerTargetPos", "_args", "_attackProfileStateParams"];
 _args params ["_firedEH"];
